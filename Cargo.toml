@@ -1,0 +1,14 @@
+[package]
+name = "timekit"
+version = "0.1.0"
+edition = "2021"
+authors = ["Your Name <your.email@example.com>"]
+description = "A pure Rust library for parsing and formatting human-readable time durations"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/yourusername/timekit"
+keywords = ["time", "duration", "parse", "format", "human-readable"]
+categories = ["date-and-time", "parsing"]
+
+[dependencies]
+
+[dev-dependencies]
